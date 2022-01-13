@@ -1,0 +1,145 @@
+{
+  "configVersion": 1,
+  "timestamp": 1642075586997,
+  "index": "https://collinsthegreat.github.io/collinsthegreat.github.io/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/favicon.ico",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/index.html",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/main.4d25de176a95e4d8b625.js",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/manifest.webmanifest",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/polyfills.1c40c0f66b4999d67571.js",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/runtime.97822713f4fd90bfc695.js",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/styles.2be2b212c53a3ba48792.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/IMG_4828.04e04b1145e65f435a5f.jpg",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/Nunito-Regular.e4eb7682710458841b10.ttf",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/Nunito-SemiBold.06337b2efe0c0d52bcb6.ttf",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/NunitoSans-Light.7f9eed4cca4d0ae6a772.ttf",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/NunitoSans-Regular.87d9266583abd389ca1f.ttf",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/NunitoSans-SemiBold.662b866576cfea51dd64.ttf",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/OpenSans-Bold.6e27168fc8a5a200a026.ttf",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/OpenSans-Regular.d7d7b8359eeb9cddfba6.ttf",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/fonts/Nunito-Regular.ttf",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/fonts/Nunito-SemiBold.ttf",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/fonts/NunitoSans-Light.ttf",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/fonts/NunitoSans-Regular.ttf",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/fonts/NunitoSans-SemiBold.ttf",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/fonts/OpenSans-Bold.ttf",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/fonts/OpenSans-Regular.ttf",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/icons/icon-128x128.png",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/icons/icon-144x144.png",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/icons/icon-152x152.png",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/icons/icon-192x192.png",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/icons/icon-384x384.png",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/icons/icon-512x512.png",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/icons/icon-72x72.png",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/icons/icon-96x96.png",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/IMG_4828.jpg",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/burger.jpg",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/card.svg",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/chicken-chips.jpg",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/cupcake.jpg",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/english.jpg",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/fast-food.svg",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/kitchen-utensils.png",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/landing.jpg",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/location.svg",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/man.jpg",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/pancakes.jpg",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/pizza.jpg",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/steak-fries.jpg",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/waffles.jpg",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/landing.b2762b4cd2f5ae36b83e.jpg",
+        "https://collinsthegreat.github.io/collinsthegreat.github.io/man.4945da9c8f4241e960d2.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/IMG_4828.04e04b1145e65f435a5f.jpg": "23fca176757efb663c55e70a7b4f96030cb9be50",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/Nunito-Regular.e4eb7682710458841b10.ttf": "07822103331d2ebc7756a0746d8f34a7210a68ed",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/Nunito-SemiBold.06337b2efe0c0d52bcb6.ttf": "91ab95e4bfedccb234e05305eeb2de76e5f5f66a",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/NunitoSans-Light.7f9eed4cca4d0ae6a772.ttf": "3a09593f6843696130290ee0602c73c56d55a278",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/NunitoSans-Regular.87d9266583abd389ca1f.ttf": "07b4c2b2a3db6c1b5b54b9b3c46cb713d65d9d63",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/NunitoSans-SemiBold.662b866576cfea51dd64.ttf": "b83505912d818c983a5afdaf3555bd6a6b2595a1",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/OpenSans-Bold.6e27168fc8a5a200a026.ttf": "b7f844e3fbc592719750956a7e9a19f0ede62c78",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/OpenSans-Regular.d7d7b8359eeb9cddfba6.ttf": "b334209f43426374b709e42e3185dc46478a96ba",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/fonts/Nunito-Regular.ttf": "07822103331d2ebc7756a0746d8f34a7210a68ed",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/fonts/Nunito-SemiBold.ttf": "91ab95e4bfedccb234e05305eeb2de76e5f5f66a",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/fonts/NunitoSans-Light.ttf": "3a09593f6843696130290ee0602c73c56d55a278",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/fonts/NunitoSans-Regular.ttf": "07b4c2b2a3db6c1b5b54b9b3c46cb713d65d9d63",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/fonts/NunitoSans-SemiBold.ttf": "b83505912d818c983a5afdaf3555bd6a6b2595a1",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/fonts/OpenSans-Bold.ttf": "b7f844e3fbc592719750956a7e9a19f0ede62c78",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/fonts/OpenSans-Regular.ttf": "b334209f43426374b709e42e3185dc46478a96ba",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/IMG_4828.jpg": "23fca176757efb663c55e70a7b4f96030cb9be50",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/burger.jpg": "7829937d129b2e8104534ff00b188eabe05517c8",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/card.svg": "bad108f40342abf9bc927647bdd478bb0ffb708f",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/chicken-chips.jpg": "af86edd325fdb726e51697f71b733d4afd52d12a",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/cupcake.jpg": "b3f06a765bb67708a6c4a33438309765603fcc26",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/english.jpg": "c8ab5c6c494075b501774f9ed9902f4fb411b60b",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/fast-food.svg": "9ef476ce435be02e056869dc7385774b49606f09",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/kitchen-utensils.png": "2ad1903586aabfc5aa44915a6cf65d91c1e219f7",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/landing.jpg": "74ffeab5a6e213d7f770e88da272e2f6a1b6d3fa",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/location.svg": "ef5b3e1f73a779624bbc7a28f4da00cb161a8310",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/man.jpg": "955325d6223756d507d51d24a48b6c6679d548c1",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/pancakes.jpg": "765e992eabbb351f94513fac0456db063e6eaf05",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/pizza.jpg": "3f371ad696c432365aa4f7dff3943ed6e1a41de9",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/steak-fries.jpg": "faecc2041a68aed6751dee0fbf890e4637827d14",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/assets/images/waffles.jpg": "2e4862a03a783498767a85ce3ad336bbff14c82a",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/index.html": "201a121f588e5cb81d44d58bf0d2b4dc96e4de85",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/landing.b2762b4cd2f5ae36b83e.jpg": "74ffeab5a6e213d7f770e88da272e2f6a1b6d3fa",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/main.4d25de176a95e4d8b625.js": "38f1f74e27b9f6163b1cb334742c0e6c8c1d67a1",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/man.4945da9c8f4241e960d2.jpg": "955325d6223756d507d51d24a48b6c6679d548c1",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/manifest.webmanifest": "643ab40efc820ab5c5bdb51f6a33988e155386e6",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/polyfills.1c40c0f66b4999d67571.js": "a72960ec6fd3104c98484c4844472517763cdf4c",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/runtime.97822713f4fd90bfc695.js": "bc04d4864cef18aee493d1fbf15729b291a1fad0",
+    "https://collinsthegreat.github.io/collinsthegreat.github.io/styles.2be2b212c53a3ba48792.css": "6751cc504c48770d9fc3e6f53b0e3c0a89b087a1"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
